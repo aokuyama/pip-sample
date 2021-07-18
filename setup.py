@@ -1,7 +1,7 @@
 import setuptools
  
 setuptools.setup(
-    name="pip-sample",
+    name="pip_sample",
     version="1.0",
     author="aokuyama",
     author_email="mail@aokuyama.work",
