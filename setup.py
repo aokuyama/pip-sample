@@ -2,7 +2,7 @@ import setuptools
  
 setuptools.setup(
     name="pip_sample",
-    version="1.0",
+    version="1.0.1",
     author="aokuyama",
     author_email="mail@aokuyama.work",
     description="python sample package",
